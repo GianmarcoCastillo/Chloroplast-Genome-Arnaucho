@@ -12,4 +12,4 @@ BS: Ciencias Biologicas
 Orcid: https://orcid.org/0000-0003-0865-5717
 
 # Citacion
-Castillo, et al., (2025). Comparative analysis of complete chloroplast genome of the Peruvian landrace of Capsicum chinense, arnaucho chili pepper, and related species of the Capsiceae tribe. DOI: https://doi.org/10.21203/rs.3.rs-5657151/v1.
+Castillo et al., (2025). Comparative analysis of complete chloroplast genome of the Peruvian landrace of Capsicum chinense, arnaucho chili pepper, and related species of the Capsiceae tribe. DOI: https://doi.org/10.21203/rs.3.rs-5657151/v1.
